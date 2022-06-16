@@ -1,5 +1,5 @@
 body{
-    background-image: url(/img/back.jpg);
+    background-image: url(img/back.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -40,7 +40,7 @@ a{
     background-color: red;
     margin: 2vw;
     border-radius: 20vw;
-    background-image: url(/img/Snake.jpg);
+    background-image: url(img/Snake.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -50,7 +50,7 @@ a{
     background-color: blue;
     margin: 2vw;
     border-radius: 20vw;
-    background-image: url(/img/tic.jpg);
+    background-image: url(img/tic.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
