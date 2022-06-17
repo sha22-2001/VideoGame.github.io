@@ -1,0 +1,67 @@
+body{
+    background-image: url(/img/back.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+header{
+    padding: 0 5vw 0 5vw;
+    display: flex;
+    height: 11vw;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0009;
+}
+.logo{
+   
+    width:5vw;
+}
+h1{
+    color: aliceblue;
+    font-size: 3vw;
+    font-family: "NEON LED Light";
+}
+h2{
+    color: aliceblue;
+    font-family: "Neon Planet";
+}
+a{
+    text-decoration: none;
+}
+.game{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding:0 5vw 0 5vw;
+
+}
+.game1{
+    width: 34%;
+    height: 30vw;
+    background-color: red;
+    margin: 2vw;
+    border-radius: 20vw;
+    background-image: url(/img/Snake.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.game2{
+    width: 34%;
+    height: 30vw;
+    background-color: blue;
+    margin: 2vw;
+    border-radius: 20vw;
+    background-image: url(/img/tic.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+h3{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    font-size: 5vw;
+    color: black;
+    margin: 5vw;
+    padding-top: 18vw;
+    font-family: "Franchise";
+}
